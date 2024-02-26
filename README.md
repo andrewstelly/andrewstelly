@@ -6,7 +6,7 @@
 
 <h2>📄 Certifications</h2>
 
-- <b>Currently Pursuing Security+ (Expected 5/24) </b>
+- <b>Currently Pursuing Security+ </b>
   
 <h2> 🤳 Connect with me:</h2>
 
