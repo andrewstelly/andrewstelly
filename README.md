@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[SIEM Honeypot Lab](https://github.com/andrewstelly/SIEM-Lab)</b>
-- <b>[Nessus Vulnerability Management Lab](https://github.com/andrewstelly/SIEM-Lab)</b>
+- <b>[Nessus Vulnerability Management Lab](https://github.com/andrewstelly/)</b>
 
 <h2>📄 Certifications</h2>
 
