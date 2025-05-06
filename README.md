@@ -7,7 +7,7 @@
 
 <h2>📄 Certifications</h2>
 
-- <b>Currently Pursuing Security+ </b>
+- <b>Security+ </b>
   
 <h2> 🤳 Connect with me:</h2>
 
