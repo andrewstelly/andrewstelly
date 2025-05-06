@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! <br/><a href="https://github.com/andrewstelly">Student</a>, <a href="https://www.linkedin.com/in/andrewstelly/">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Andrew! <br/><a href="https://github.com/andrewstelly"></a>, <a href="https://www.linkedin.com/in/andrewstelly/">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
